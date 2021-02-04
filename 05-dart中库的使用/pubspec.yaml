@@ -1,0 +1,4 @@
+name: Basics
+description: a demo that learn dart.
+dependencies:
+  http: ^0.12.2
